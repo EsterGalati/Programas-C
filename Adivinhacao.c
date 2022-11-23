@@ -71,22 +71,7 @@ int main(){
         int menor = chute<numerosecreto;
         
         if (acertou){
-        printf("             OOOOOOOOOOO               \n");
-        printf("         OOOOOOOOOOOOOOOOOOO           \n");
-        printf("      OOOOOO  OOOOOOOOO  OOOOOO        \n");
-        printf("    OOOOOO      OOOOO      OOOOOO      \n");
-        printf("  OOOOOOOO  #   OOOOO  #   OOOOOOOO    \n");
-        printf(" OOOOOOOOOO    OOOOOOO    OOOOOOOOOO   \n");
-        printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
-        printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
-        printf("OOOO  OOOOOOOOOOOOOOOOOOOOOOOOO  OOOO  \n");
-        printf(" OOOO  OOOOOOOOOOOOOOOOOOOOOOO  OOOO   \n");
-        printf("  OOOO   OOOOOOOOOOOOOOOOOOOO  OOOO    \n");
-        printf("    OOOOO   OOOOOOOOOOOOOOO   OOOO     \n");
-        printf("      OOOOOO   OOOOOOOOO   OOOOOO      \n");
-        printf("         OOOOOO         OOOOOO         \n");
-        printf("             OOOOOOOOOOOO              \n");
-        printf("\n\n");
+        
             break;
         }
         else if (maior){
@@ -108,7 +93,23 @@ int main(){
         }
         printf("FIM DE JOGO!!\n");
         if (acertou){
-        
+        printf("             OOOOOOOOOOO               \n");
+        printf("         OOOOOOOOOOOOOOOOOOO           \n");
+        printf("      OOOOOO  OOOOOOOOO  OOOOOO        \n");
+        printf("    OOOOOO      OOOOO      OOOOOO      \n");
+        printf("  OOOOOOOO  #   OOOOO  #   OOOOOOOO    \n");
+        printf(" OOOOOOOOOO    OOOOOOO    OOOOOOOOOO   \n");
+        printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
+        printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
+        printf("OOOO  OOOOOOOOOOOOOOOOOOOOOOOOO  OOOO  \n");
+        printf(" OOOO  OOOOOOOOOOOOOOOOOOOOOOO  OOOO   \n");
+        printf("  OOOO   OOOOOOOOOOOOOOOOOOOO  OOOO    \n");
+        printf("    OOOOO   OOOOOOOOOOOOOOO   OOOO     \n");
+        printf("      OOOOOO   OOOOOOOOO   OOOOOO      \n");
+        printf("         OOOOOO         OOOOOO         \n");
+        printf("             OOOOOOOOOOOO              \n");
+        printf("\n\n");
+
         printf("Voce Ganhou!\n");
         printf("Voce acertou em %d tentativas\n",tentativas);
         printf("Voce alcancou %1f pontos, parabens\n",pontos);
